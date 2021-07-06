@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "wow-lerna-core": "^1.0.0"
-  }
+  },
+  "gitHead": "85396e4c2a80a5d15af4bf0cf81b166dc3e3fc42"
 }
