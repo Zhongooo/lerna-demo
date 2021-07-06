@@ -1,0 +1,9 @@
+40 error Error: Command failed with exit code 1: git commit -m v2.0.0
+40 error On branch master
+40 error Your branch is up to date with 'origin/master'.
+40 error
+40 error nothing to commit, working tree clean
+40 error     at makeError (D:\nodejs\node_global\node_modules\lerna\node_modules\_execa@5.1.1@execa\lib\error.js:60:11)
+40 error     at handlePromise (D:\nodejs\node_global\node_modules\lerna\node_modules\_execa@5.1.1@execa\index.js:118:26)
+40 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+40 error     at async Promise.all (index 0)

@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "description": "",
   "bin": {
-    "test": "bin/index.js"
+    "wow-lerna-core": "bin/index.js"
   },
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "816dd8010bb4b2a3ead5aea391c52a80810f8247"
+  "gitHead": "71d93afca24b7a60cd7316ca765cf2b4e27fc044"
 }
